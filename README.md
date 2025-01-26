@@ -2,6 +2,8 @@
 
 A React-based web application that allows users to explore YouTube channel data, including channel statistics, recent videos, and video details (likes, comments, etc.). Built with **React**, **Vite**, and **Tailwind CSS**.
 
+👉 **Live Demo**: https://yt-data-scrapper.vercel.app/
+
 ## Features
 
 - **Channel Search**: Search for YouTube channels by Channel ID or @handle.
